@@ -14,8 +14,8 @@
 
 .PHONY:	build push
 
-PREFIX = quay.io/fluentd_elasticsearch
-IMAGE = fluentd
+PREFIX = zyper
+IMAGE = fluentd_elasticsearch_s3
 TAG = v2.9.0
 
 build:
